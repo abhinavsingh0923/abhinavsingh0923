@@ -1,53 +1,58 @@
+# Hi there, I'm [Your Name]! 👋
 
-<div align="center">
+### 🚀 **Who am I?**
+I am a passionate **Full Stack Developer** & **AI Engineer** based in **[Your Location]**.
 
-# Hey, I'm Abhinav 👋
-
----
-
-## 🤔 Who am I?
-
-Full-stack developer passionate about building scalable systems and elegant solutions. I work across the entire stack—from frontend interfaces to cloud infrastructure—with a focus on performance and clean code.
+I specialize in building production-grade **Generative AI applications**, scalable backends, and cloud-native architectures. I love bridging the gap between complex LLM workflows and robust software engineering.
 
 ---
 
-## 🚀 What am I currently working on?
-
-- **Generative AI & Agentic AI** - Building intelligent agents and LLM-powered applications
-- **Scalable Backend Systems** - High-performance APIs and microservices
-- **Cloud Infrastructure** - Optimizing deployments and automation
-- **Real-time Applications** - WebSockets, real-time data processing
-
----
-
-## 🛠️ Tools & Tech I Use
-
-**Languages** • Python • JavaScript • TypeScript
-
-**Backend** • Django • FastAPI • Node.js
-
-**Frontend** • React • Next.js • Tailwind • Three.js
-
-**AI/ML** • LangChain • OpenAI • Hugging Face • Vector DBs
-
-**Database** • PostgreSQL • MongoDB • Redis • Pinecone
-
-**DevOps** • Docker • Kubernetes • AWS • Jenkins • ArgoCD
-
-**Tools** • Git • REST API • GraphQL • Linux
+### 🔭 **What I'm Currently Working On**
+I am building an **Agentic Gen AI Platform** that leverages **RAG (Retrieval-Augmented Generation)** for intelligent data processing.
+- 🧠 **Orchestration:** Using **LangChain** & **LangGraph** for stateful multi-agent workflows.
+- 🗄️ **Memory:** Implementing **Vector Databases** for semantic search and context retrieval.
+- ⚙️ **Backend:** Powered by **Django REST Framework (DRF)**.
+- ☁️ **Infrastructure:** Fully containerized and deployed on **Kubernetes (K8s)**.
 
 ---
 
-## 📬 How to reach me?
+### 🛠️ **Tools & Technologies**
 
-- **Portfolio** → https://abhinavtech.vercel.app
-- **LinkedIn** → https://www.linkedin.com/in/abhinavsingh0923
-- **GitHub** → https://github.com/abhinavsingh0923
-- **LeetCode** → https://leetcode.com/u/singhabhinav0923/
-- **Email** → [Your Email Here]
+**Generative AI & LLM Stack**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/Architecture-RAG-ff69b4?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Database-Vector_DB-ff9900?style=for-the-badge)
+
+**Backend & Database**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1744?style=for-the-badge&logo=django&logoColor=white&color=ff1744)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**DevOps & Cloud**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Frontend & Mobile**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 
-<sub>Always learning, always building 🚀</sub>
+### 📬 **How to Reach Me**
 
-</div>
+I'm always open to discussing **LLM Agents**, **RAG architectures**, or **Cloud DevOps**.
+
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
+- **Twitter/X:** [@yourhandle](https://twitter.com)
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
