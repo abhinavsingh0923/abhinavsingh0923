@@ -1,14 +1,14 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Abhinav singh! 👋
 
 ### 🚀 **Who am I?**
-I am a passionate **Full Stack Developer** & **AI Engineer** based in **[Your Location]**.
+I am a passionate **Full Stack Developer** & **AI Engineer** .
 
-I specialize in building production-grade **Generative AI applications**, scalable backends, and cloud-native architectures. I love bridging the gap between complex LLM workflows and robust software engineering.
+DevOps & Backend Specialist | GenAI Enthusiast. Bridging development and operations by building secure, scalable REST APIs and automating their deployment. Passionate about writing clean code and designing robust, self-healing infrastructure
 
 ---
 
 ### 🔭 **What I'm Currently Working On**
-I am building an **Agentic Gen AI Platform** that leverages **RAG (Retrieval-Augmented Generation)** for intelligent data processing.
+I am building an **Agentic Gen AI Based SAAS Application** that leverages **RAG (Retrieval-Augmented Generation)** for intelligent data processing.
 - 🧠 **Orchestration:** Using **LangChain** & **LangGraph** for stateful multi-agent workflows.
 - 🗄️ **Memory:** Implementing **Vector Databases** for semantic search and context retrieval.
 - ⚙️ **Backend:** Powered by **Django REST Framework (DRF)**.
@@ -46,13 +46,12 @@ I am building an **Agentic Gen AI Platform** that leverages **RAG (Retrieval-Aug
 
 I'm always open to discussing **LLM Agents**, **RAG architectures**, or **Cloud DevOps**.
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-- **Twitter/X:** [@yourhandle](https://twitter.com)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **LinkedIn:** [linkedin.com/in/abhinavsingh0923/](https://linkedin.com)
+- **Email:** [singhabhinav0923@gmail.com](mailto:your-email@example.com)
+- **Portfolio:** [https://abhinavtech.vercel.app/](https://your-portfolio.com)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=[abhinavsinghh0923]&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
