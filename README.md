@@ -53,5 +53,5 @@ I'm always open to discussing **LLM Agents**, **RAG architectures**, or **Cloud 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[abhinavsinghh0923]&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=[abhinavsingh0923]&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
