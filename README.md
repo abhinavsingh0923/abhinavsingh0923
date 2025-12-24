@@ -1,29 +1,53 @@
+
 <div align="center">
 
 # Hey, I'm Abhinav 👋
 
-Full-stack developer building scalable systems. [Portfolio](https://abhinavtech.vercel.app) • [LinkedIn](https://www.linkedin.com/in/abhinavsingh0923) • [LeetCode](https://leetcode.com/u/singhabhinav0923/)
+---
+
+## 🤔 Who am I?
+
+Full-stack developer passionate about building scalable systems and elegant solutions. I work across the entire stack—from frontend interfaces to cloud infrastructure—with a focus on performance and clean code.
 
 ---
 
-## Tech Stack
+## 🚀 What am I currently working on?
 
-**Backend** • Python • Django • FastAPI • Node.js
-
-**Frontend** • React • Next.js • TypeScript • Tailwind • Three.js
-
-**Mobile** • React Native • Expo
-
-**Database** • PostgreSQL • MongoDB • Redis • Prisma
-
-**DevOps** • Docker • Kubernetes • AWS • Jenkins • ArgoCD • CI/CD
-
-**Tools** • Git • GraphQL • REST API • Linux • Bash
+- **Generative AI & Agentic AI** - Building intelligent agents and LLM-powered applications
+- **Scalable Backend Systems** - High-performance APIs and microservices
+- **Cloud Infrastructure** - Optimizing deployments and automation
+- **Real-time Applications** - WebSockets, real-time data processing
 
 ---
 
-## GitHub Stats
+## 🛠️ Tools & Tech I Use
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavsingh0923&show_icons=true&locale=en&layout=compact&hide_border=true&theme=gotham&title_color=2F81F7&icon_color=2F81F7&text_color=999999&bg_color=00000000" alt="Top Languages" />
+**Languages** • Python • JavaScript • TypeScript
+
+**Backend** • Django • FastAPI • Node.js
+
+**Frontend** • React • Next.js • Tailwind • Three.js
+
+**AI/ML** • LangChain • OpenAI • Hugging Face • Vector DBs
+
+**Database** • PostgreSQL • MongoDB • Redis • Pinecone
+
+**DevOps** • Docker • Kubernetes • AWS • Jenkins • ArgoCD
+
+**Tools** • Git • REST API • GraphQL • Linux
+
+---
+
+## 📬 How to reach me?
+
+- **Portfolio** → https://abhinavtech.vercel.app
+- **LinkedIn** → https://www.linkedin.com/in/abhinavsingh0923
+- **GitHub** → https://github.com/abhinavsingh0923
+- **LeetCode** → https://leetcode.com/u/singhabhinav0923/
+- **Email** → [Your Email Here]
+
+---
+
+<sub>Always learning, always building 🚀</sub>
 
 </div>
